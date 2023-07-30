@@ -2,7 +2,7 @@
 // Example file for .NET Data Types
 
 // Declare some types with values
-int a = 1;
+int a = 1; 
 char c = 'A';
 float f = 123.45f;
 decimal d = 400.85m;

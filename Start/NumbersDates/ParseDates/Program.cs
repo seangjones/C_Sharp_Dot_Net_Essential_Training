@@ -14,5 +14,9 @@ string[] sampleDateTimes = {
 
 foreach (string datestr in sampleDateTimes) {
     DateTime result;
+    bool parseSuccess;
+
     // TODO: Use the static class function TryParse to try parsing the dates
+    parseSuccess = DateTime.TryParse(datestr, out result);
+    Console.WriteLine($"{"\"" + datestr + "\"",-30}: {parseSuccess,-8}: {result.ToString("g")}");
 }
