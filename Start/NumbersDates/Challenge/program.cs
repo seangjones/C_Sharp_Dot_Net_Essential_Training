@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-string inStr = null;
+string inStr = "";
 DateTime inDate = DateTime.Now;
 DateTime now = DateTime.Now;
 bool parseResult = false;

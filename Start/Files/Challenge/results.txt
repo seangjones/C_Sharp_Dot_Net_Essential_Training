@@ -1,0 +1,14 @@
+Summary Report:
+Directory name:C:\Users\1000c_000\Documents\Github\C_Sharp_Dot_Net_Essential_Training\Start\Files\Challenge\FileCollection
+
+File type counts:
+Total files     : 12
+Word files      : 5
+Excel files     : 4
+Powerpoint files: 3
+
+File sizes:
+Total file size : 2,674,311 bytes
+Word files      : 1,196,567 bytes
+Excel files     : 74,262 bytes
+Powerpoint files: 1,403,482 bytes
